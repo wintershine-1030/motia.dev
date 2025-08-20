@@ -1,0 +1,1772 @@
+Uri: https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js
+File Name: C:\Downloaded Web Sites\www.motia.dev\js\script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtm.js?id=GTM-P6672CSW
+File Name: C:\Downloaded Web Sites\www.motia.dev\gtm.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/
+File Name: C:\Downloaded Web Sites\www.motia.dev\index.htm
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/cli
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\cli.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/deployment/getting-started
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\deployment\getting-started.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/deployment/motia-cloud
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\deployment\motia-cloud.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/deployment/self-hosted
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\deployment\self-hosted.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/flows-and-visualization
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\flows-and-visualization.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/logging-and-debugging
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\logging-and-debugging.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/state-management
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\state-management.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/steps/api
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\steps\api.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/steps/cron
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\steps\cron.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/steps/defining-steps
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\steps\defining-steps.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/steps/event
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\steps\event.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/streams
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\streams.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/concepts/testing
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\concepts\testing.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/contribution/how-to-contribute
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\contribution\how-to-contribute.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/examples
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\examples.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/examples/rag-docling-weaviate
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\examples\rag-docling-weaviate.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/examples/sentiment-analysis
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\examples\sentiment-analysis.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/examples/uptime-discord-monitor
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\examples\uptime-discord-monitor.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/getting-started/build-your-first-app
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\getting-started\build-your-first-app.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/getting-started/core-concepts
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\getting-started\core-concepts.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/getting-started/quick-start
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\getting-started\quick-start.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/real-world-use-cases
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\real-world-use-cases.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/real-world-use-cases/ai-deep-research-agent
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\real-world-use-cases\ai-deep-research-agent.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/real-world-use-cases/finance-agent
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\real-world-use-cases\finance-agent.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/real-world-use-cases/github-integration-workflow
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\real-world-use-cases\github-integration-workflow.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/real-world-use-cases/gmail-automation
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\real-world-use-cases\gmail-automation.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/real-world-use-cases/trello-automation
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\real-world-use-cases\trello-automation.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/workbench/noop-steps
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\workbench\noop-steps.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/workbench/overview
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\workbench\overview.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/docs/workbench/ui-steps
+File Name: C:\Downloaded Web Sites\www.motia.dev\docs\workbench\ui-steps.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/favicon.png
+File Name: C:\Downloaded Web Sites\www.motia.dev\favicon-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/favicon.png?v=2
+File Name: C:\Downloaded Web Sites\www.motia.dev\favicon.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/icon.png?v=2
+File Name: C:\Downloaded Web Sites\www.motia.dev\icon.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/manifesto
+File Name: C:\Downloaded Web Sites\www.motia.dev\manifesto.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/privacy-policy
+File Name: C:\Downloaded Web Sites\www.motia.dev\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/rive/beam_video.webm
+File Name: C:\Downloaded Web Sites\www.motia.dev\rive\beam_video.webm
+Content Type: video/webm
+
+Uri: https://www.motia.dev/telemetry
+File Name: C:\Downloaded Web Sites\www.motia.dev\telemetry.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/toc
+File Name: C:\Downloaded Web Sites\www.motia.dev\toc.html
+Content Type: text/html
+
+Uri: https://www.motia.dev/_next/image?url=%2Flogos%2Flogo-black.png&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\logo-black-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2Flogos%2Flogo-black.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\logo-black.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2Flogos%2Flogo-white.png&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\logo-white-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2Flogos%2Flogo-white.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\logo-white.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-deep-research-agent.1c09a66a.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\ai-deep-research-agent-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-deep-research-agent.1c09a66a.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\ai-deep-research-agent-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-deep-research-agent.1c09a66a.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\ai-deep-research-agent-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-deep-research-agent.1c09a66a.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\ai-deep-research-agent-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-deep-research-agent.1c09a66a.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\ai-deep-research-agent.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-deep-research-agent.1c09a66a.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\ai-deep-research-agent-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-deep-research-agent.1c09a66a.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\ai-deep-research-agent-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-deep-research-agent.1c09a66a.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\ai-deep-research-agent-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fairtable.389f82b9.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\airtable-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fairtable.389f82b9.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\airtable.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fasana.88d96a1f.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\asana-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fasana.88d96a1f.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\asana.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbackgroundLogoSlider.c9e8bd02.webp&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\backgroundLogoSlider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbackgroundLogoSlider.c9e8bd02.webp&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\backgroundLogoSlider.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbento5.4d1d483e.webp&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bento5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbento5.4d1d483e.webp&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bento5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbentoSectionTitleIcon.a9767258.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bentoSectionTitleIcon-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbentoSectionTitleIcon.a9767258.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bentoSectionTitleIcon.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento1.52c2f710.webp&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento1.52c2f710.webp&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento1.52c2f710.webp&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento1.52c2f710.webp&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento1.52c2f710.webp&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento1.52c2f710.webp&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento1.52c2f710.webp&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento1.52c2f710.webp&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento2.e82fe9e3.webp&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento2.e82fe9e3.webp&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento2.e82fe9e3.webp&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento2.e82fe9e3.webp&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento2.e82fe9e3.webp&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento2.e82fe9e3.webp&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento2.e82fe9e3.webp&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento2.e82fe9e3.webp&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento3.51717fc2.webp&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento3.51717fc2.webp&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento3-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento3.51717fc2.webp&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento3-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento3.51717fc2.webp&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento3-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento3.51717fc2.webp&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento3.51717fc2.webp&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento3.51717fc2.webp&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento3.51717fc2.webp&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento4.b40c1474.webp&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento4.b40c1474.webp&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento4-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento4.b40c1474.webp&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento4-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento4.b40c1474.webp&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento4-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento4.b40c1474.webp&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento4.b40c1474.webp&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento4.b40c1474.webp&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento4.b40c1474.webp&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento5.6f38b5cf.webp&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento5-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento5.6f38b5cf.webp&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento5-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento5.6f38b5cf.webp&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento5-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento5.6f38b5cf.webp&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento5-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento5.6f38b5cf.webp&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento5.6f38b5cf.webp&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento5.6f38b5cf.webp&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgBento5.6f38b5cf.webp&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgBento5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgHeroDashboard.4350731d.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgHeroDashboard-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgHeroDashboard.4350731d.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgHeroDashboard-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgHeroDashboard.4350731d.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgHeroDashboard-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgHeroDashboard.4350731d.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgHeroDashboard-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgHeroDashboard.4350731d.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgHeroDashboard.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgHeroDashboard.4350731d.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgHeroDashboard-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgHeroDashboard.4350731d.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgHeroDashboard-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgHeroDashboard.4350731d.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgHeroDashboard-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgWorkflowExplorer.f95bf175.avif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgWorkflowExplorer-1.avif
+Content Type: image/avif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbgWorkflowExplorer.f95bf175.avif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bgWorkflowExplorer.avif
+Content Type: image/avif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbubbleio.5a698eec.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bubbleio-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbubbleio.5a698eec.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\bubbleio.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcalendar.749cbec5.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\calendar-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcalendar.749cbec5.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\calendar.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-event-node.1ba816c5.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-event-node-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-event-node.1ba816c5.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-event-node-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-event-node.1ba816c5.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-event-node-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-event-node.1ba816c5.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-event-node-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-event-node.1ba816c5.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-event-node.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-event-node.1ba816c5.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-event-node-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-event-node.1ba816c5.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-event-node-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-event-node.1ba816c5.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-event-node-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-ideator-agent-node.dbd24c63.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-ideator-agent-node-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-ideator-agent-node.dbd24c63.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-ideator-agent-node-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-ideator-agent-node.dbd24c63.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-ideator-agent-node-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-ideator-agent-node.dbd24c63.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-ideator-agent-node-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-ideator-agent-node.dbd24c63.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-ideator-agent-node.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-ideator-agent-node.dbd24c63.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-ideator-agent-node-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-ideator-agent-node.dbd24c63.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-ideator-agent-node-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcustom-ideator-agent-node.dbd24c63.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\custom-ideator-agent-node-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeployments.f499833d.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\deployments-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeployments.f499833d.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\deployments-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeployments.f499833d.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\deployments-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeployments.f499833d.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\deployments-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeployments.f499833d.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\deployments.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeployments.f499833d.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\deployments-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeployments.f499833d.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\deployments-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdeployments.f499833d.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\deployments-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdiscord.331259cb.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\discord-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdiscord.331259cb.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\discord.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdrive.df3d96e9.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\drive-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdrive.df3d96e9.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\drive.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendpoints.6cd87438.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\endpoints-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendpoints.6cd87438.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\endpoints-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendpoints.6cd87438.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\endpoints-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendpoints.6cd87438.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\endpoints-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendpoints.6cd87438.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\endpoints.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendpoints.6cd87438.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\endpoints-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendpoints.6cd87438.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\endpoints-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendpoints.6cd87438.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\endpoints-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffinance-agent.2e75534e.gif&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\finance-agent-4.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffinance-agent.2e75534e.gif&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\finance-agent-5.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffinance-agent.2e75534e.gif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\finance-agent-6.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffinance-agent.2e75534e.gif&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\finance-agent-7.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffinance-agent.2e75534e.gif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\finance-agent.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffinance-agent.2e75534e.gif&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\finance-agent-1.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffinance-agent.2e75534e.gif&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\finance-agent-2.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffinance-agent.2e75534e.gif&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\finance-agent-3.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgemini.87583afc.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\gemini-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgemini.87583afc.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\gemini.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-issue-workflow.4c0e34ea.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-issue-workflow-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-issue-workflow.4c0e34ea.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-issue-workflow-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-issue-workflow.4c0e34ea.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-issue-workflow-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-issue-workflow.4c0e34ea.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-issue-workflow-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-issue-workflow.4c0e34ea.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-issue-workflow.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-issue-workflow.4c0e34ea.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-issue-workflow-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-issue-workflow.4c0e34ea.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-issue-workflow-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-issue-workflow.4c0e34ea.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-issue-workflow-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-pr-workflow.d5795296.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-pr-workflow-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-pr-workflow.d5795296.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-pr-workflow-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-pr-workflow.d5795296.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-pr-workflow-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-pr-workflow.d5795296.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-pr-workflow-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-pr-workflow.d5795296.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-pr-workflow.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-pr-workflow.d5795296.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-pr-workflow-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-pr-workflow.d5795296.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-pr-workflow-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub-pr-workflow.d5795296.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\github-pr-workflow-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgmail-automation.b15f3b56.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\gmail-automation-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgmail-automation.b15f3b56.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\gmail-automation-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgmail-automation.b15f3b56.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\gmail-automation-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgmail-automation.b15f3b56.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\gmail-automation-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgmail-automation.b15f3b56.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\gmail-automation.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgmail-automation.b15f3b56.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\gmail-automation-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgmail-automation.b15f3b56.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\gmail-automation-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgmail-automation.b15f3b56.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\gmail-automation-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlogoFull.a0c32ce7.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\logoFull-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlogoFull.a0c32ce7.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\logoFull.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlogoFull.a0c32ce7.png&w=64&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\logoFull-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmailchimp.0ceb2b15.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\mailchimp-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmailchimp.0ceb2b15.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\mailchimp.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-1.33d76334.gif&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-1-4.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-1.33d76334.gif&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-1-5.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-1.33d76334.gif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-1-6.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-1.33d76334.gif&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-1-7.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-1.33d76334.gif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-1.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-1.33d76334.gif&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-1-1.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-1.33d76334.gif&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-1-2.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-1.33d76334.gif&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-1-3.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.06c3f38a.gif&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-5.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.06c3f38a.gif&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-6.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.06c3f38a.gif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-7.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.06c3f38a.gif&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-8.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.06c3f38a.gif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-1.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.06c3f38a.gif&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-2.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.06c3f38a.gif&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-3.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.06c3f38a.gif&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-4.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.cc433d78.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.cc433d78.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.cc433d78.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.cc433d78.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.cc433d78.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.cc433d78.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.cc433d78.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app-2.cc433d78.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app.8f20dcdc.gif&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-5.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app.8f20dcdc.gif&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-6.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app.8f20dcdc.gif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-7.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app.8f20dcdc.gif&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-8.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app.8f20dcdc.gif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app.8f20dcdc.gif&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-2.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app.8f20dcdc.gif&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-3.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia-build-your-app.8f20dcdc.gif&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-build-your-app-4.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia.fd7c0beb.gif&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-4.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia.fd7c0beb.gif&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-5.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia.fd7c0beb.gif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-6.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia.fd7c0beb.gif&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-7.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia.fd7c0beb.gif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia.fd7c0beb.gif&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-1.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia.fd7c0beb.gif&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-2.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmotia.fd7c0beb.gif&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motia-3.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmotiaCloudFlow.a7fbdbae.webp&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motiaCloudFlow-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmotiaCloudFlow.a7fbdbae.webp&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motiaCloudFlow.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmotiaCloudNavSettings.c102c22e.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motiaCloudNavSettings-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmotiaCloudNavSettings.c102c22e.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motiaCloudNavSettings.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmotiaHeroCode.66d48536.webp&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motiaHeroCode.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmotiaHeroCode.66d48536.webp&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motiaHeroCode-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmotiaPlaque.bc869235.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motiaPlaque-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FmotiaPlaque.bc869235.png&w=384&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\motiaPlaque.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmulti-language.659e3907.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\multi-language-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmulti-language.659e3907.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\multi-language-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmulti-language.659e3907.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\multi-language-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmulti-language.659e3907.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\multi-language-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmulti-language.659e3907.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\multi-language.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmulti-language.659e3907.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\multi-language-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmulti-language.659e3907.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\multi-language-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmulti-language.659e3907.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\multi-language-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-workbench.e0715256.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\new-workbench-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-workbench.e0715256.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\new-workbench-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-workbench.e0715256.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\new-workbench-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-workbench.e0715256.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\new-workbench-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-workbench.e0715256.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\new-workbench.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-workbench.e0715256.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\new-workbench-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-workbench.e0715256.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\new-workbench-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-workbench.e0715256.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\new-workbench-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopenai.77a4b013.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\openai-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopenai.77a4b013.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\openai.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Foutlook.81cc02c8.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\outlook-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Foutlook.81cc02c8.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\outlook.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FpricingTableGlow.f80fb772.avif&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\pricingTableGlow-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FpricingTableGlow.f80fb772.avif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\pricingTableGlow.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-docling-weaviate-agent.bcf4bfa4.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-docling-weaviate-agent-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-docling-weaviate-agent.bcf4bfa4.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-docling-weaviate-agent-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-docling-weaviate-agent.bcf4bfa4.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-docling-weaviate-agent-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-docling-weaviate-agent.bcf4bfa4.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-docling-weaviate-agent-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-docling-weaviate-agent.bcf4bfa4.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-docling-weaviate-agent.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-docling-weaviate-agent.bcf4bfa4.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-docling-weaviate-agent-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-docling-weaviate-agent.bcf4bfa4.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-docling-weaviate-agent-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-docling-weaviate-agent.bcf4bfa4.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-docling-weaviate-agent-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-example.c3bcdefd.gif&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-example-4.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-example.c3bcdefd.gif&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-example-5.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-example.c3bcdefd.gif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-example-6.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-example.c3bcdefd.gif&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-example-7.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-example.c3bcdefd.gif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-example.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-example.c3bcdefd.gif&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-example-1.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-example.c3bcdefd.gif&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-example-2.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frag-example.c3bcdefd.gif&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\rag-example-3.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsalesforce.94370a7e.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\salesforce-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsalesforce.94370a7e.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\salesforce.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscalable.0787527a.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\scalable-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscalable.0787527a.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\scalable-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscalable.0787527a.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\scalable-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscalable.0787527a.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\scalable-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscalable.0787527a.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\scalable.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscalable.0787527a.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\scalable-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscalable.0787527a.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\scalable-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscalable.0787527a.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\scalable-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analysis.8c586e49.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analysis-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analysis.8c586e49.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analysis-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analysis.8c586e49.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analysis-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analysis.8c586e49.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analysis-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analysis.8c586e49.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analysis.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analysis.8c586e49.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analysis-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analysis.8c586e49.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analysis-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analysis.8c586e49.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analysis-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.9f162810.gif&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-4.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.9f162810.gif&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-5.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.9f162810.gif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-6.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.9f162810.gif&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-7.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.9f162810.gif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.9f162810.gif&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-1.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.9f162810.gif&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-2.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.9f162810.gif&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-3.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.f2971b94.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.f2971b94.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.f2971b94.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.f2971b94.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.f2971b94.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.f2971b94.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.f2971b94.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer-workbench.f2971b94.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-workbench-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer.bcd0fe9c.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer.bcd0fe9c.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer.bcd0fe9c.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer.bcd0fe9c.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer.bcd0fe9c.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer.bcd0fe9c.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer.bcd0fe9c.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsentimental-analyzer.bcd0fe9c.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sentimental-analyzer-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsheets.48b390ce.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sheets-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsheets.48b390ce.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\sheets.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fslack.96241c1d.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\slack-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fslack.96241c1d.png&w=384&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\slack.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsmoke.c4753404.webp&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\smoke-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsmoke.c4753404.webp&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\smoke.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsmoke.c4753404.webp&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\smoke-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstateandlogsbg.253ef4f5.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\stateandlogsbg.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstateandlogsbg.253ef4f5.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\stateandlogsbg-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FStats%26logs-GIF.b5a82948.gif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\Stats&logs-GIF.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FStats%26logs-GIF.b5a82948.gif&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\Stats&logs-GIF-1.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams-test-workbench.38f6bb2d.gif&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-test-workbench-4.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams-test-workbench.38f6bb2d.gif&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-test-workbench-5.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams-test-workbench.38f6bb2d.gif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-test-workbench-6.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams-test-workbench.38f6bb2d.gif&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-test-workbench-7.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams-test-workbench.38f6bb2d.gif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-test-workbench.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams-test-workbench.38f6bb2d.gif&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-test-workbench-1.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams-test-workbench.38f6bb2d.gif&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-test-workbench-2.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams-test-workbench.38f6bb2d.gif&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-test-workbench-3.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams.16582c34.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams.16582c34.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams.16582c34.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams.16582c34.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams.16582c34.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams.16582c34.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams.16582c34.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstreams.16582c34.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\streams-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsuperChargeAgentsIcon.b005e49e.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\superChargeAgentsIcon-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsuperChargeAgentsIcon.b005e49e.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\superChargeAgentsIcon.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftelegram.11f37f24.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\telegram-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftelegram.11f37f24.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\telegram.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrello-automation.43dcbf4a.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trello-automation-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrello-automation.43dcbf4a.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trello-automation-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrello-automation.43dcbf4a.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trello-automation-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrello-automation.43dcbf4a.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trello-automation-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrello-automation.43dcbf4a.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trello-automation.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrello-automation.43dcbf4a.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trello-automation-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrello-automation.43dcbf4a.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trello-automation-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrello-automation.43dcbf4a.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trello-automation-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrello.1b248203.png&w=128&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trello-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrello.1b248203.png&w=256&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trello.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FtrelloFlow.d1930463.avif&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trelloFlow.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FtrelloFlow.d1930463.avif&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\trelloFlow-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-architecture.5317e5e1.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-architecture-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-architecture.5317e5e1.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-architecture-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-architecture.5317e5e1.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-architecture-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-architecture.5317e5e1.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-architecture-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-architecture.5317e5e1.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-architecture.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-architecture.5317e5e1.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-architecture-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-architecture.5317e5e1.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-architecture-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-architecture.5317e5e1.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-architecture-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-flow.4faeb788.png&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-flow-4.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-flow.4faeb788.png&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-flow-5.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-flow.4faeb788.png&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-flow-6.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-flow.4faeb788.png&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-flow-7.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-flow.4faeb788.png&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-flow.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-flow.4faeb788.png&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-flow-1.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-flow.4faeb788.png&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-flow-2.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor-flow.4faeb788.png&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-flow-3.png
+Content Type: image/png
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor.4b14a552.gif&w=1080&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-4.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor.4b14a552.gif&w=1200&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-5.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor.4b14a552.gif&w=1920&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-6.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor.4b14a552.gif&w=2048&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-7.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor.4b14a552.gif&w=3840&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor.4b14a552.gif&w=640&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-1.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor.4b14a552.gif&w=750&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-2.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuptime-monitor.4b14a552.gif&w=828&q=75&dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\uptime-monitor-3.gif
+Content Type: image/gif
+
+Uri: https://www.motia.dev/_next/static/chunks/100-a2f225a554b409c7.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\100-a2f225a554b409c7.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/148-b4f03ef8e2ebca23.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\148-b4f03ef8e2ebca23.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/362-b9b88e31aaa69b49.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\362-b9b88e31aaa69b49.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/450-4a95716766db38aa.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\450-4a95716766db38aa.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/50-8c9c66b0958072d6.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\50-8c9c66b0958072d6.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/557-caa9484daf935b88.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\557-caa9484daf935b88.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/564-c5b16d8ebae0764e.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\564-c5b16d8ebae0764e.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/579-88998aa971e361ca.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\579-88998aa971e361ca.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/669-8a46a93f2f2eca1b.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\669-8a46a93f2f2eca1b.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/679-d2bc00d48cebe51d.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\679-d2bc00d48cebe51d.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/709-529db02893be62f2.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\709-529db02893be62f2.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/7a2846ee-f6ee23e453a528e2.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\7a2846ee-f6ee23e453a528e2.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/82d08aed-c11f5411d8ca2bb6.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\82d08aed-c11f5411d8ca2bb6.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/90-b71cba7cff0c1ca2.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\90-b71cba7cff0c1ca2.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/919-b97c731ff9a7762f.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\919-b97c731ff9a7762f.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/969-5258bbc213c34773.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\969-5258bbc213c34773.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/app/docs/[[...slug]]/page-d5f717de8b44a410.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\app\docs\[[...slug]]\page-d5f717de8b44a410.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/app/docs/layout-b049e4a0dcd11dee.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\app\docs\layout-b049e4a0dcd11dee.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/app/layout-d45567db4e1b6b17.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\app\layout-d45567db4e1b6b17.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/app/manifesto/page-b9010293135ccb77.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\app\manifesto\page-b9010293135ccb77.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/app/not-found-06e02dfbc2a8ec16.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\app\not-found-06e02dfbc2a8ec16.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/app/page-941d3216f5534a02.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\app\page-941d3216f5534a02.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/app/privacy-policy/page-7b42e803dd60dc03.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\app\privacy-policy\page-7b42e803dd60dc03.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/app/telemetry/page-36367322965bdbe0.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\app\telemetry\page-36367322965bdbe0.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/app/toc/page-37872c739f149d2b.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\app\toc\page-37872c739f149d2b.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/ed9785c0-d8998d3740799165.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\ed9785c0-d8998d3740799165.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/main-app-98ef00f0eae8272e.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\main-app-98ef00f0eae8272e.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/chunks/webpack-c318ba9a439b10c8.js?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\chunks\webpack-c318ba9a439b10c8.js
+Content Type: application/javascript
+
+Uri: https://www.motia.dev/_next/static/css/84c1a55ec67103bc.css?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\css\84c1a55ec67103bc.css
+Content Type: text/css
+
+Uri: https://www.motia.dev/_next/static/css/e3bd31e4703eb3c6.css?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\css\e3bd31e4703eb3c6.css
+Content Type: text/css
+
+Uri: https://www.motia.dev/_next/static/css/f0b4f6c31c32f4c0.css?dpl=dpl_7x6wm96HJXBrzVJ12zzDvCcHkvh4
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\css\f0b4f6c31c32f4c0.css
+Content Type: text/css
+
+Uri: https://www.motia.dev/_next/static/media/0e96d314a90a6138-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\0e96d314a90a6138-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.motia.dev/_next/static/media/569ce4b8f30dc480-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\569ce4b8f30dc480-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.motia.dev/_next/static/media/64418ffc17e50301-s.woff2
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\64418ffc17e50301-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.motia.dev/_next/static/media/8d697b304b401681-s.woff2
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\8d697b304b401681-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.motia.dev/_next/static/media/b7ea2ab4a8ad1f81-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\b7ea2ab4a8ad1f81-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.motia.dev/_next/static/media/ba015fad6dcf6784-s.woff2
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\ba015fad6dcf6784-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.motia.dev/_next/static/media/ba43ea3467e29870-s.woff2
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\ba43ea3467e29870-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.motia.dev/_next/static/media/bento2Glow.fd0940e2.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\bento2Glow.fd0940e2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/bgCloudCard1.fea17d5d.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\bgCloudCard1.fea17d5d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/bgComparisonTable.13c2cd8d.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\bgComparisonTable.13c2cd8d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/bgFooter.bb7bcea2.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\bgFooter.bb7bcea2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/bgManifestoDeclaration.7c2bd6ee.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\bgManifestoDeclaration.7c2bd6ee.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/bgManifestoPage.f5394aca.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\bgManifestoPage.f5394aca.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/bgMotiaCloud.c6dbcef0.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\bgMotiaCloud.c6dbcef0.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/ctaSectionGlow.112319f5.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\ctaSectionGlow.112319f5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/f2f91ba921b45b28-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\f2f91ba921b45b28-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.motia.dev/_next/static/media/footerBlueGlow.bc4b08e2.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\footerBlueGlow.bc4b08e2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/footerWordmark.c1f08560.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\footerWordmark.c1f08560.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/footerWordmarkGlow.cd474c60.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\footerWordmarkGlow.cd474c60.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/heroBackgroundRays.ddc77cfb.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\heroBackgroundRays.ddc77cfb.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/motiaCloudHeading.14564bc3.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\motiaCloudHeading.14564bc3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/motiaCloudNavLinks.2026284d.svg
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\motiaCloudNavLinks.2026284d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.motia.dev/_next/static/media/tile.ebcf9e2d.png
+File Name: C:\Downloaded Web Sites\www.motia.dev\_next\static\media\tile.ebcf9e2d.png
+Content Type: image/png
+
