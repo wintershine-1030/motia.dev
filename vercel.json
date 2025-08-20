@@ -8,6 +8,28 @@
   ],
   "cleanUrls": true,
   "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/docs",
+      "destination": "/docs.html"
+    },
+    {
+      "source": "/manifesto",
+      "destination": "/manifesto.html"
+    },
+    {
+      "source": "/rive/(.*)",
+      "destination": "/rive/$1"
+    },
+    {
+      "source": "/_next/(.*)",
+      "destination": "/_next/$1"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
   "headers": [
     {
       "source": "/_next/static/(.*)",
