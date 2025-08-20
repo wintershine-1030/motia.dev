@@ -6,56 +6,26 @@
       "use": "@vercel/static"
     }
   ],
-  "trailingSlash": false,
-  "rewrites": [
+  "routes": [
     {
-      "source": "/docs",
-      "destination": "/docs.html"
+      "src": "/docs",
+      "dest": "/docs.html"
     },
     {
-      "source": "/manifesto",
-      "destination": "/manifesto.html"
+      "src": "/manifesto",
+      "dest": "/manifesto.html"
     },
     {
-      "source": "/rive/(.*)",
-      "destination": "/rive/$1"
+      "src": "/rive/(.*)",
+      "dest": "/rive/$1"
     },
     {
-      "source": "/_next/(.*)",
-      "destination": "/_next/$1"
+      "src": "/_next/(.*)",
+      "dest": "/_next/$1"
     },
     {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ],
-  "headers": [
-    {
-      "source": "/_next/static/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
-        }
-      ]
-    },
-    {
-      "source": "/rive/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
-        }
-      ]
-    },
-    {
-      "source": "/icon.png",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
-        }
-      ]
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ]
 }
