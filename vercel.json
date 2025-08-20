@@ -9,30 +9,30 @@
       }
     }
   ],
-  "routes": [
+  "rewrites": [
     {
-      "src": "/docs",
-      "dest": "/docs.html"
+      "source": "/docs",
+      "destination": "/docs.html"
     },
     {
-      "src": "/manifesto",
-      "dest": "/manifesto.html"
+      "source": "/manifesto",
+      "destination": "/manifesto.html"
     },
     {
-      "src": "/rive/(.*)",
-      "dest": "/rive/$1"
+      "source": "/rive/(.*)",
+      "destination": "/rive/$1"
     },
     {
-      "src": "/_next/(.*)",
-      "dest": "/_next/$1"
+      "source": "/_next/(.*)",
+      "destination": "/_next/$1"
     },
     {
-      "src": "/_vercel/(.*)",
-      "dest": "/_vercel/$1"
+      "source": "/_vercel/(.*)",
+      "destination": "/_vercel/$1"
     },
     {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ],
   "headers": [
